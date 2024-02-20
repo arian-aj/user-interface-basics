@@ -1,0 +1,23 @@
+div {
+  background-color: rgba(50, 41, 41, 0.71);
+  width: fit-content;
+}
+
+#special-heading {
+  font-size: 40px;
+  color: red;
+}
+
+h1 {
+  text-align: center;
+  color: red;
+}
+
+h2 {
+  color: aqua;
+}
+
+.my-list-element {
+  font-weight: bold;
+  color: red;
+}
