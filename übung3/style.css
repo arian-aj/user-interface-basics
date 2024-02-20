@@ -1,0 +1,23 @@
+/* What a mess! */
+
+.important {
+    color: blue;
+    font-size: 100px;
+}
+
+
+#quote {
+    color: blue;
+}
+
+#title {
+    background-color: red;
+    width: fit-content;
+    color: blue;
+}
+
+.quotes {
+    background-color: green;
+    width: fit-content;
+    color: blue;
+}
